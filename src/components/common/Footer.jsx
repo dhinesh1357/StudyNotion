@@ -43,7 +43,7 @@ export const Footer = () => {
               <h4>Contact us</h4>
               <ul>
                 <li>
-                  <a href="mailto:horrorj18@gmail.com?body=fell free to type">
+                  <a href="mailto:pottadhinesh2004@gmail.com?body=fell free to type">
                     Gmail
                   </a>
                 </li>
@@ -56,24 +56,24 @@ export const Footer = () => {
               <h4>follow us</h4>
               <div className="social-links">
                 <a
-                  href="https://www.linkedin.com/in/darshan-jaju-73b237223/"
+                  href="https://www.linkedin.com/in/dhinesh-potta-4261b4228/"
                   target="blank"
                 >
                   <FaLinkedin className=" mx-auto mt-3 scale-125" />
                 </a>
-                <a href="https://twitter.com/Darshanjaju5" target="blank">
+                {/* <a href="https://twitter.com/Darshanjaju5" target="blank">
                   <FaTwitter className=" mx-auto mt-3 scale-125" />
                 </a>
 
                 <a href="https://www.instagram.com/dj__260/" target="blank">
                   <FaInstagram className=" mx-auto mt-3 scale-125" />
-                </a>
+                </a> */}
               </div>
             </div>
           </div>
         </div>
         <div className=" flex flex-col sm:flex-row justify-center items-center gap-4 ">
-        <p className="text-white text-2xl my-2  ">© 2023</p>
+        <p className="text-white text-2xl my-2  ">© 2024</p>
         <div className=" ">
         <img  src={Logo} alt="" width={120} height={32} className="rounded-xl border-2 border-white p-2" />
         </div>
